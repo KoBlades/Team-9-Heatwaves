@@ -58,4 +58,4 @@ Over the past three decades, year-round temperatures have steadily risen, with t
 ## Final Notes
 
 This project was completed with the help stackOverFlow, ChatGPT, and past class activities. 
-You can view the presentation [Google Slides](https://docs.google.com/presentation/d/1nUe0JtWUv8RW2lQ-kVaNUPQ6VA8ewDgQfYOqchsrsbc/edit?usp=sharing)
+You can view the full presentation [HERE](https://docs.google.com/presentation/d/1nUe0JtWUv8RW2lQ-kVaNUPQ6VA8ewDgQfYOqchsrsbc/edit?usp=sharing)
