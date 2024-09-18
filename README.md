@@ -34,14 +34,14 @@ Interactive Wildfire Map: Developed using the Leaflet library in JavaScript:
 
 ![Wildfire Acres](https://github.com/KoBlades/Team-9-Heatwaves/blob/main/Project_3_MD/Wildfires/Images/acres_fires.png)
 ### Programs and Libraries Used
-Python: Backend processing and data manipulation.
-JavaScript: Powering the front-end dashboard and interactive maps.
-Pandas: Python library for data analysis and manipulation.
-Plotly & Plotly Express: Used for dynamic, interactive visualizations.
-Leaflet: A JavaScript library for creating interactive maps with wildfire data.
-GeoPandas: Python library for working with geospatial data.
-Papa Parse: A JavaScript library for parsing CSV files.
-PostgreSQL: Database used for storing and querying climate and wildfire data.
+- Python: Backend processing and data manipulation.
+- JavaScript: Powering the front-end dashboard and interactive maps.
+- Pandas: Python library for data analysis and manipulation.
+- Plotly & Plotly Express: Used for dynamic, interactive visualizations.
+- Leaflet: A JavaScript library for creating interactive maps with wildfire data.
+- GeoPandas: Python library for working with geospatial data.
+- Papa Parse: A JavaScript library for parsing CSV files.
+- PostgreSQL: Database used for storing and querying climate and wildfire data.
 
 ### Data Sources
 Climate Data API: Historical daily maximum temperature data for five major California cities.
